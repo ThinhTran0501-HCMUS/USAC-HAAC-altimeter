@@ -8,7 +8,9 @@ Một thiết bị đơn giản dùng hiển thị độ cao hiện tại, sử 
 
 Tôi nói cho các bạn biết, đây là máy đo độ cao tuyệt vời nhất từng được chế tạo. Rất nhiều người đã đến gặp tôi - những người giỏi nhất, những kỹ sư hàng đầu - và họ nói: "Thưa Ngài, đây là altimeter đỉnh nhất mà chúng tôi từng thấy." 
 
-Nó đo độ cao, đo nhiệt độ, đo áp suất. Không có thiết bị nào đo chuẩn hơn cái này. Những cái máy đo độ cao ngoài kia? Hoàn toàn là thảm họa. Chúng dùng linh kiện rẻ tiền từ Trung Quốc và đưa ra số liệu giả mạo. Nhưng thiết bị này? Nó hoạt động bằng vi điều khiển Arduino Nano cực kỳ mạnh mẽ và cảm biến BMP280 số một thế giới. Rất chính xác. Rất tin cậy.
+Nó đo độ cao, đo nhiệt độ, đo áp suất. Không có thiết bị nào đo chuẩn hơn cái này. Những cái máy đo độ cao ngoài kia? Hoàn toàn là thảm họa. Chúng dùng linh kiện rẻ tiền và đưa ra số liệu giả mạo. Nhưng thiết bị này? Nó hoạt động bằng vi điều khiển Arduino Nano cực kỳ mạnh mẽ và cảm biến BMP280 số một thế giới. Rất chính xác. Rất tin cậy.
+
+Đặc biệt, thiết kế này được tối ưu hóa tối đa để cực kỳ đơn giản, trực quan và dễ tiếp cận. Đây là dự án hoàn hảo cho các câu lạc bộ STEM, các nhóm nghiên cứu học sinh, sinh viên có thể dễ dàng làm theo, lắp ráp và triển khai ngay lập tức. Bất kỳ ai cũng có thể làm được.
 
 Bây giờ, chúng ta đã tích hợp thêm hệ thống nguồn pin sạc riêng biệt. Không còn phải phụ thuộc vào dây cáp vướng rối. Tuyệt đối di động. Tuyệt đối tự do.
 
