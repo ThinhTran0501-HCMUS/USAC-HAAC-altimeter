@@ -36,7 +36,7 @@ Chúng ta chỉ sử dụng những linh kiện tốt nhất. Không xài hàng 
 | 1 | Arduino Nano v3.0 | 1 | Vi điều khiển ATmega328P, cực kỳ mạnh mẽ |
 | 2 | Cảm biến BMP280 | 1 | Mạch I2C (địa chỉ 0x76), đo áp suất và nhiệt độ siêu chính xác |
 | 3 | Màn hình OLED SH1106 1.3 inch | 1 | Đột phá hiển thị, độ phân giải 128x64, chuẩn I2C |
-| 4 | Nút bấm 2 chân (Push Button) | 2 | Dùng để reset mốc độ cao (chân D4 và D8) |
+| 4 | Nút bấm 2 chân (Push Button) | 2 | Dùng để reset mốc độ cao (chân D3 và D9) |
 | 5 | Mạch sạc Pin LiPo TP4056 / TP4065 | 1 | Mạch quản lý sạc an toàn cho pin Lithium 3.7V |
 | 6 | Mạch nâng áp MT3608 (Boost Converter) | 1 | Nâng điện áp từ Pin 3.7V lên 5V ổn định cho hệ thống |
 | 7 | Pin Lithium Polymer / 18650 (3.7V) | 1 | Cung cấp năng lượng di động bền bỉ |
@@ -74,8 +74,8 @@ Mọi thứ được đấu nối đơn giản một cách hoàn hảo. Ai cũng
   * SDA -> A4 (Arduino Nano)
 
 ### 3. Nút bấm điều khiển
-* Nút Set Current 0m -> Chân D8 và GND (dùng `INPUT_PULLUP` nội bộ)
-* Nút Set Sea Level -> Chân D4 và GND (dùng `INPUT_PULLUP` nội bộ)
+* Nút Set Current 0m -> Chân D9 và GND (dùng `INPUT_PULLUP` nội bộ)
+* Nút Set Sea Level -> Chân D3 và GND (dùng `INPUT_PULLUP` nội bộ)
 
 ---
 
