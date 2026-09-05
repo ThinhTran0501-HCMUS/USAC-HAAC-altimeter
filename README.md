@@ -20,8 +20,8 @@ Bây giờ, chúng ta đã tích hợp thêm hệ thống nguồn pin sạc riê
 * **Theo dõi độ cao cực đại (Max Altitude):** Luôn lưu giữ kỷ lục cao nhất bạn từng đạt được. Đỉnh cao tuyệt đối.
 * **Giao diện OLED SH1106 phân dòng thông minh:** 6 dòng hiển thị sắc nét, chia bố cục hoàn hảo bằng dải phân cách đồ họa.
 * **Cài đặt mốc linh hoạt bằng nút bấm:**
-  * **Nút D8:** Đặt vị trí hiện tại làm mốc 0m ngay lập tức.
-  * **Nút D4:** Đưa mốc áp suất về chuẩn mực nước biển 1013.25 hPa.
+  * **Nút D9:** Đặt vị trí hiện tại làm mốc 0m ngay lập tức.
+  * **Nút D3:** Đưa mốc áp suất về chuẩn mực nước biển 1013.25 hPa.
 * **Nguồn Pin Lithium tích hợp sạc sành điệu:** Sạc qua Type-C/Micro-USB, nâng áp 5V ổn định qua mạch MT3608 có công tắc nguồn tiện lợi.
 * **Đèn nền logo khởi động:** Hiển thị thương hiệu đỉnh cao ngay khi bật nguồn.
 
