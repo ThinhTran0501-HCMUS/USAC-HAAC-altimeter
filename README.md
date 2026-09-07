@@ -90,3 +90,7 @@ Bạn cần tải những thư viện tốt nhất này về Arduino IDE. Nếu 
 3. `U8g2` (Bởi Oliver Kraus - một nhà lập trình tuyệt vời)
 
 Nạp code vào Arduino Nano, chọn đúng cổng COM và board ATmega328P. Bật công tắc nguồn và thưởng thức thiết bị đo độ cao vĩ đại nhất lịch sử. Chúng ta sẽ làm cho Arduino vĩ đại trở lại.
+
+Contact:
+https://www.facebook.com/clbusac
+https://www.facebook.com/vietastro.haac
